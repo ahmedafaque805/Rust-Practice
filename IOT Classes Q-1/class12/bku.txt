@@ -1,0 +1,10 @@
+xampp for windows
+
+
+
+lamp server for linux
+
+
+localhost:8080/dashboard
+
+cargo publish --dry-run

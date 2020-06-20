@@ -1,0 +1,42 @@
+fn main() {
+    let a = 2;
+    let b = 4;
+    let c = a+b;
+    println!("{}",c);
+
+
+
+let number = 2;
+for i in 1..11 {
+    println!("{}", number* i);
+}
+
+let x = 2;
+if x == 2{
+    println!("Even")
+}
+else{
+    println!("Odd")
+}
+let x = 10;
+let y = 20;
+println!("the sum of two integers {}",sum_diff(x, y));
+
+fn sum_diff(x:i32, y:i32)->i32{
+  x+y
+    
+}
+
+
+
+}
+
+
+
+  println!("{}, {}",result.0,result.1):
+
+
+
+
+
+http://www.tiny.cc/IOTQ1
